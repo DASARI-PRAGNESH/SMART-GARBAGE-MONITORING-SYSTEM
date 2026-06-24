@@ -1,0 +1,10 @@
+RESULTS
+
+The Smart Garbage Monitoring System was successfully designed and implemented to monitor the waste level in bins using an ultrasonic sensor and ESP32 microcontroller. The system accurately measured the garbage level and displayed real-time status as empty, half-filled, or full. When the bin reached its threshold level, the ESP32 sent an alert through an IoT-based notification system and activated a local indicator such as an LED or buzzer.
+The 9V battery efficiently powered the system, and the ESP32’s built-in Wi-Fi ensured smooth wireless communication with the IoT dashboard. During testing, the system responded quickly to changes in garbage levels and provided reliable updates without manual interference. This automated process eliminated the need for physical checking of bins, saving both time and manpower.
+Overall, the system functioned efficiently, offering high accuracy, low cost, and easy scalability. It proved suitable for use in smart cities, residential colonies, and educational campuses, where timely waste management is essential for maintaining cleanliness.
+
+CONCLUSION
+
+The Smart Garbage Monitoring System provides a smart, sustainable, and cost-effective solution for modern waste management. By integrating sensor technology and IoT, it ensures timely collection of garbage and prevents bin overflow, contributing to a cleaner and healthier environment.
+This project supports the objectives of the Swachh Bharat Mission and Smart City initiatives, showcasing how technology can improve urban sanitation and operational efficiency. The developed system is simple, reliable, and easily expandable, making it an ideal solution for real-world waste management applications.
